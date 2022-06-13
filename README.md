@@ -1,5 +1,5 @@
 # GeekOutGJ
- ## hello
+ ## 9-6
 
 ### Group Member:
 1. Isaac
