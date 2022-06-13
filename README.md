@@ -8,8 +8,4 @@
 4. Chor Ting
 5. Shafa Reiko
 
-From isaac branch
-6. Someone
-
-
-this is a change to read me(from adib)
+this is a change to read me
