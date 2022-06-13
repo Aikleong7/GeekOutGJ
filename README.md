@@ -8,4 +8,4 @@
 4. Chor Ting
 5. Shafa Reiko
 
-chor ting changes
+chor ting tries to raise pull requesta
