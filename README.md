@@ -1,5 +1,5 @@
 # GeekOutGJ
- ## hello
+ ## 9-6
 
 ### Group Member:
 1. Isaac
@@ -9,3 +9,7 @@
 5. Shafa Reiko
 
 From isaac branch
+6. Someone
+
+
+this is a change to read me(from adib)
